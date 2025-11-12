@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/track-back/static/css/main.fa4f564c.css",
+    "main.js": "/track-back/static/js/main.1f0801b5.js",
+    "static/js/453.bdf940af.chunk.js": "/track-back/static/js/453.bdf940af.chunk.js",
+    "static/media/lost-found.png": "/track-back/static/media/lost-found.315cb7af8e8e606eb96a.png",
+    "index.html": "/track-back/index.html",
+    "main.fa4f564c.css.map": "/track-back/static/css/main.fa4f564c.css.map",
+    "main.1f0801b5.js.map": "/track-back/static/js/main.1f0801b5.js.map",
+    "453.bdf940af.chunk.js.map": "/track-back/static/js/453.bdf940af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4f564c.css",
+    "static/js/main.1f0801b5.js"
+  ]
+}
